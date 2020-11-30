@@ -31,13 +31,14 @@
 ## Languges and tools
 
 [<img align="left" alt="codeSTACKr | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://google.com)
-[<img align="left" alt="codeSTACKr | Node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.svg" />](https://google.com)
-[<img align="left" alt="codeSTACKr | Scss" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scss.svg" />](https://google.com)
-[<img align="left" alt="codeSTACKr | Css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Node" width="22px" src="https://img.icons8.com/windows/32/000000/nodejs.png"/>](https://google.com)
+[<img align="left" alt="codeSTACKr | Scss" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://google.com)
 [<img align="left" alt="codeSTACKr | React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://google.com)
 [<img align="left" alt="codeSTACKr | Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />](https://google.com)
 [<img align="left" alt="codeSTACKr | git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://google.com)
 
 <br/>
+
 [twitter]: https://twitter.com/wiktor51975
 [gmail]: wiktorkulas51@gmail.com
