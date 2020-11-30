@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
-## Your short description
+## Short Description
 
 - 🔭 I’m currently working on - Project FavNote and my website
 - 🌱 I’m currently learning - React
@@ -13,12 +13,12 @@
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=wiktorkulas51&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Connect with me:
+## Contact with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 <!-- Optional if you have blogs -->
@@ -28,5 +28,16 @@
 <!-- This section you create this variables that are used above -->
 <!-- [website]: https://google.com -->
 
+## Languges and tools
+
+[<img align="left" alt="codeSTACKr | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Scss" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scss.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />](https://google.com)
+[<img align="left" alt="codeSTACKr | git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://google.com)
+
+<br/>
 [twitter]: https://twitter.com/wiktor51975
 [gmail]: wiktorkulas51@gmail.com
