@@ -4,9 +4,9 @@
 
 ## Short Description
 
-- 🔭 I’m currently working on - Project FavNote and my website
-- 🌱 I’m currently learning - React
-- 🥅 2021 Goal - Find a job as a developer and be more productive
+- 🔭 I’m currently working on - M&F
+- 🌱 I’m currently learning - React more in-depth
+- 🥅 2021 Goal - Find a job as a developer
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
@@ -18,7 +18,7 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 <!-- Optional if you have blogs -->
@@ -41,4 +41,4 @@
 <br/>
 
 [twitter]: https://twitter.com/wiktor51975
-[gmail]: wiktorkulas51@gmail.com
+[facebook]: https://www.facebook.com/profile.php?id=100005264209369
